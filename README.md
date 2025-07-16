@@ -105,8 +105,8 @@ This project is more than just SQL practice—it's a step toward becoming a **da
 ## 🔗 Connect With Me
 
 
-- LinkedIn: 
-- Email: 
+- LinkedIn: https://www.linkedin.com/in/zain-shaukat4228/
+
 
 ---
 
